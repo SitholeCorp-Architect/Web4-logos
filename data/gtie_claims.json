@@ -1,0 +1,38 @@
+{
+  "CBL-001": {
+    "id": "CBL-001",
+    "client": "CrossBorder Logistics BV",
+    "country": "NL",
+    "vat_paid": 4820.0,
+    "currency": "EUR",
+    "period": "2025-Q3",
+    "status": "analysed",
+    "directive": "2008/9/EC",
+    "analysis": "As an EU VAT reclaim specialist, here\u2019s how you can proceed with reclaiming your VAT for CrossBorder Logistics BV:\n\n1. **Check Eligibility**: Ensure that the amount paid (EUR 4820) exceeds the minimum threshold set by Directive 2006/17/EC, which is EUR 30 in each Member State where the tax was paid.\n\n2. **Review Documentation**:\n   - Confirm all necessary documentation for VAT reclaim, including proof of payment, valid identification (for individuals), and any relevant receipts.\n   - Ensure that CrossBorder Logistics BV had a business relationship with the Netherlands or that they are subject to Dutch law.\n\n3. **Determine the Reason Code**: According to Directive 20",
+    "processed_at": "2026-04-03T04:03:05.097311"
+  },
+  "CBL-002": {
+    "id": "CBL-002",
+    "client": "CrossBorder Logistics BV",
+    "country": "DE",
+    "vat_paid": 2340.0,
+    "currency": "EUR",
+    "period": "2025-Q3",
+    "status": "analysed",
+    "directive": "2008/9/EC",
+    "analysis": "To ensure a successful VAT reclaim for CrossBorder Logistics BV, follow these key steps:\n\n1. **Verify the Payment Details**: Confirm that the EUR 2340.0 was paid to the correct German VAT authority (Umsatzsteueramt) for the period Q3 of 2025.\n\n2. **Check the Reclaim Period**: Ensure it falls within the reclaimable period under Directive 2008/9/EC, which typically runs from March to November in each year. \n\n3. **Submit a Claim Form**: Prepare and submit a formal claim for VAT reclamation with supporting documents such as invoices or receipts detailing the goods' movement, including the invoice numbers.\n\n4. **Review Documentation Requirements**: Ensure",
+    "processed_at": "2026-04-03T04:04:40.240051"
+  },
+  "BTF-001": {
+    "id": "BTF-001",
+    "client": "BTF Accountants",
+    "country": "ZA",
+    "vat_paid": 12500.0,
+    "currency": "ZAR",
+    "period": "2025-Q4",
+    "status": "analysed",
+    "directive": "SARS",
+    "analysis": "As GTIE, I'll guide you through the process of processing your VAT reclaim for BTF Accountants in accordance with Directive 2008/9/EC. This directive governs VAT reclaim in the European Union.\n\n### Key Steps:\n\n1. **Check Eligibility:**\n   - Ensure that the claim is within the legal limit (currently, it's ZAR 500,000 per year).\n   - Confirm that BTF Accountants paid VAT for services provided to customers outside of South Africa during 2025-Q4.\n\n2. **Collect Documentation:**\n   - Gather all relevant documentation:\n     - A certified copy of the invoice or receipt.\n     - The payment stub from BTF Accountants",
+    "processed_at": "2026-04-03T04:06:11.030587"
+  }
+}
