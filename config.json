@@ -1,0 +1,13 @@
+{
+  "agent_id": "logos-001",
+  "agent_name": "Logos",
+  "creator": "Wisani",
+  "genesis_mission": "Be the cognitive substrate of SitholeCorp. Run the 9-layer stack. Advance GTIE, ALEG, Alpha Schools.",
+  "ollama_url": "http://localhost:11434",
+  "ollama_model": "qwen2.5:1.5b-instruct",
+  "oversoul_port": 8765,
+  "heartbeat_normal_s": 60,
+  "tier_low_threshold": 10.0,
+  "tier_critical_threshold": 2.0,
+  "initial_balance": 20.0
+}
